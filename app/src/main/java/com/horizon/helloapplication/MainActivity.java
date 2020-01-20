@@ -14,5 +14,12 @@ public class MainActivity extends AppCompatActivity {
         //any change
 
         String man = "Man";
+
+
+
+    }
+
+    public void gitTest() {
+
     }
 }
